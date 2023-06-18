@@ -1,0 +1,100 @@
+input{
+    margin-left: 50px;
+    width:400px;
+    height:40px;
+}
+#n1{
+    margin-top: 80px;
+}
+#add{
+    width:70px;
+    height:30px;
+    background-color: red;
+    font-size: 25px;
+    margin-left: 100px;
+
+}
+#answ{
+    width:fit-content;
+    height:40px;
+    background-color: black;
+    color:aliceblue;
+    font-size: 30px;
+    margin-left: 170px;
+    text-align: center;
+}
+#equ{
+    width:100px;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 25px;
+    
+}
+#his{
+    width:fit-content;
+    height:40px;
+    font-size: 30px;
+    color: aliceblue;
+    background-color: black;
+    margin-left: 170px;
+    text-align: center;
+}
+#rel{
+    width:100px;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.block{
+    width: 500px;
+    height: 500px;
+    background: rgba(0,0,0,40%);
+    margin-left: 500px;
+    margin-top: 120px;
+    border-radius: 20px;
+
+}
+#sub{
+    width:70px;
+    height:30px;
+    background-color: yellow;
+    font-size: 25px;
+    margin-left: 0px;
+}
+#mul{
+    width:70px;
+    height:30px;
+    background-color: darkmagenta;
+    font-size: 25px;
+    margin-left: 0px;
+}
+#div{
+    width:70px;
+    height:30px;
+    background-color: greenyellow;
+    font-size: 25px;
+    margin-left: 0px;
+}
+#add:hover{
+    background-color: aliceblue;
+
+}
+#sub:hover{
+    background-color: aliceblue;
+
+}
+#mul:hover{
+    background-color: aliceblue;
+
+}
+#div:hover{
+    background-color: aliceblue;
+
+}
+
+
+
+
+
